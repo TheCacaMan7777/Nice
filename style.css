@@ -1,0 +1,14 @@
+
+html{
+    background-color: bisque;
+}
+
+header{
+    font-size: 3em;
+    font-family: fantasy;
+}
+
+P{
+    font-family: monospace;
+    font-size: 150%;
+}

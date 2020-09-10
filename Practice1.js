@@ -1,0 +1,1 @@
+let speed = prompt("What is the speed in miles per hours?");
